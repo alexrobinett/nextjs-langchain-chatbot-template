@@ -1,0 +1,4637 @@
+[
+  {
+    "manufacture": "Lexus",
+    "model": "UX 300e",
+    "batterySize": "45 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.5 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 146,
+    "efficiency wh": {
+      "mi": 307
+    },
+    "Fast Charging Peak Rate MPH": "93"
+  },
+  {
+    "manufacture": "JAC",
+    "model": "iEV7s ",
+    "batterySize": "39 kWh ",
+    "availableDate": " February 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "12.0 sec",
+    "topSpeed MPH": 82,
+    "Range Miles": 140,
+    "efficiency wh": {
+      "mi": 278
+    },
+    "Fast Charging Peak Rate MPH": "99"
+  },
+  {
+    "manufacture": "Volkswagen",
+    "model": "e-Up! ",
+    "batterySize": "32.3 kWh ",
+    "availableDate": " August 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "11.9 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 127,
+    "efficiency wh": {
+      "mi": 254
+    },
+    "Fast Charging Peak Rate MPH": "106"
+  },
+  {
+    "manufacture": "Dacia",
+    "model": "Spring Electric 65 Extreme",
+    "batterySize": "25 kWh ",
+    "availableDate": " January 2023",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "13.7 sec",
+    "topSpeed MPH": 78,
+    "Range Miles": 99,
+    "efficiency wh": {
+      "mi": 251
+    },
+    "Fast Charging Peak Rate MPH": "106"
+  },
+  {
+    "manufacture": "Honda",
+    "model": "e Advance",
+    "batterySize": "28.5 kWh ",
+    "availableDate": " August 2020",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "8.3 sec",
+    "topSpeed MPH": 90,
+    "Range Miles": 106,
+    "efficiency wh": {
+      "mi": 270
+    },
+    "Fast Charging Peak Rate MPH": "112"
+  },
+  {
+    "manufacture": "Dacia",
+    "model": "Spring Electric 45",
+    "batterySize": "25 kWh ",
+    "availableDate": " July 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "19.1 sec",
+    "topSpeed MPH": 78,
+    "Range Miles": 103,
+    "efficiency wh": {
+      "mi": 245
+    },
+    "Fast Charging Peak Rate MPH": "112"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQV 250 Long",
+    "batterySize": "60 kWh ",
+    "availableDate": " October 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.0 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 127,
+    "efficiency wh": {
+      "mi": 472
+    },
+    "Fast Charging Peak Rate MPH": "118"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQV 250 Extra-Long",
+    "batterySize": "60 kWh ",
+    "availableDate": " October 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.0 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 127,
+    "efficiency wh": {
+      "mi": 472
+    },
+    "Fast Charging Peak Rate MPH": "118"
+  },
+  {
+    "manufacture": "Kia",
+    "model": "e-Soul 39.2 kWh",
+    "batterySize": "39.2 kWh ",
+    "availableDate": " September 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "9.9 sec",
+    "topSpeed MPH": 98,
+    "Range Miles": 143,
+    "efficiency wh": {
+      "mi": 274
+    },
+    "Fast Charging Peak Rate MPH": "124"
+  },
+  {
+    "manufacture": "Mazda",
+    "model": "MX-30 ",
+    "batterySize": "30 kWh ",
+    "availableDate": " May 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "9.7 sec",
+    "topSpeed MPH": 87,
+    "Range Miles": 106,
+    "efficiency wh": {
+      "mi": 283
+    },
+    "Fast Charging Peak Rate MPH": "130"
+  },
+  {
+    "manufacture": "Hyundai",
+    "model": "Kona Electric 39 kWh",
+    "batterySize": "39.2 kWh ",
+    "availableDate": " June 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "9.9 sec",
+    "topSpeed MPH": 96,
+    "Range Miles": 155,
+    "efficiency wh": {
+      "mi": 253
+    },
+    "Fast Charging Peak Rate MPH": "137"
+  },
+  {
+    "manufacture": "ORA",
+    "model": "Funky Cat GT",
+    "batterySize": "59.3 kWh ",
+    "availableDate": " April 2023",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.2 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 205,
+    "efficiency wh": {
+      "mi": 290
+    },
+    "Fast Charging Peak Rate MPH": "143"
+  },
+  {
+    "manufacture": "Nissan",
+    "model": "Leaf ",
+    "batterySize": "39 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.9 sec",
+    "topSpeed MPH": 89,
+    "Range Miles": 146,
+    "efficiency wh": {
+      "mi": 267
+    },
+    "Fast Charging Peak Rate MPH": "143"
+  },
+  {
+    "manufacture": "Renault",
+    "model": "Zoe ZE50 R135",
+    "batterySize": "52 kWh ",
+    "availableDate": " November 2019",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "9.5 sec",
+    "topSpeed MPH": 87,
+    "Range Miles": 193,
+    "efficiency wh": {
+      "mi": 270
+    },
+    "Fast Charging Peak Rate MPH": "143"
+  },
+  {
+    "manufacture": "Renault",
+    "model": "Zoe ZE50 R110",
+    "batterySize": "52 kWh ",
+    "availableDate": " November 2019",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "11.4 sec",
+    "topSpeed MPH": 84,
+    "Range Miles": 196,
+    "efficiency wh": {
+      "mi": 266
+    },
+    "Fast Charging Peak Rate MPH": "143"
+  },
+  {
+    "manufacture": "Fiat",
+    "model": "500e Hatchback 24 kWh",
+    "batterySize": "21.3 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "9.0 sec",
+    "topSpeed MPH": 84,
+    "Range Miles": 84,
+    "efficiency wh": {
+      "mi": 254
+    },
+    "Fast Charging Peak Rate MPH": "143"
+  },
+  {
+    "manufacture": "Fiat",
+    "model": "500e 3+1 24 kWh",
+    "batterySize": "21.3 kWh ",
+    "availableDate": " July 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "9.0 sec",
+    "topSpeed MPH": 84,
+    "Range Miles": 84,
+    "efficiency wh": {
+      "mi": 254
+    },
+    "Fast Charging Peak Rate MPH": "143"
+  },
+  {
+    "manufacture": "Fiat",
+    "model": "500e Cabrio 24 kWh",
+    "batterySize": "21.3 kWh ",
+    "availableDate": " July 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "9.0 sec",
+    "topSpeed MPH": 84,
+    "Range Miles": 84,
+    "efficiency wh": {
+      "mi": 254
+    },
+    "Fast Charging Peak Rate MPH": "143"
+  },
+  {
+    "manufacture": "Renault",
+    "model": "Kangoo E-Tech Electric",
+    "batterySize": "44 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "12.6 sec",
+    "topSpeed MPH": 82,
+    "Range Miles": 134,
+    "efficiency wh": {
+      "mi": 330
+    },
+    "Fast Charging Peak Rate MPH": "143"
+  },
+  {
+    "manufacture": "ORA",
+    "model": "Funky Cat 63 kWh",
+    "batterySize": "59.3 kWh ",
+    "availableDate": " April 2023",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.2 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 211,
+    "efficiency wh": {
+      "mi": 280
+    },
+    "Fast Charging Peak Rate MPH": "149"
+  },
+  {
+    "manufacture": "ORA",
+    "model": "Funky Cat 48 kWh",
+    "batterySize": "45.4 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.3 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 162,
+    "efficiency wh": {
+      "mi": 282
+    },
+    "Fast Charging Peak Rate MPH": "149"
+  },
+  {
+    "manufacture": "Nissan",
+    "model": "Leaf e+",
+    "batterySize": "59 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.9 sec",
+    "topSpeed MPH": 98,
+    "Range Miles": 211,
+    "efficiency wh": {
+      "mi": 280
+    },
+    "Fast Charging Peak Rate MPH": "149"
+  },
+  {
+    "manufacture": "Seres",
+    "model": "3 ",
+    "batterySize": "51 kWh ",
+    "availableDate": " October 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.9 sec",
+    "topSpeed MPH": 96,
+    "Range Miles": 162,
+    "efficiency wh": {
+      "mi": 315
+    },
+    "Fast Charging Peak Rate MPH": "149"
+  },
+  {
+    "manufacture": "Mini",
+    "model": "Cooper SE Convertible",
+    "batterySize": "28.9 kWh ",
+    "availableDate": " April 2023",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "8.2 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 106,
+    "efficiency wh": {
+      "mi": 274
+    },
+    "Fast Charging Peak Rate MPH": "149"
+  },
+  {
+    "manufacture": "MG",
+    "model": "ZS EV Standard Range",
+    "batterySize": "49 kWh ",
+    "availableDate": " November 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.6 sec",
+    "topSpeed MPH": 109,
+    "Range Miles": 168,
+    "efficiency wh": {
+      "mi": 291
+    },
+    "Fast Charging Peak Rate MPH": "162"
+  },
+  {
+    "manufacture": "Mini",
+    "model": "Cooper SE ",
+    "batterySize": "28.9 kWh ",
+    "availableDate": " March 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "7.3 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 112,
+    "efficiency wh": {
+      "mi": 259
+    },
+    "Fast Charging Peak Rate MPH": "162"
+  },
+  {
+    "manufacture": "Toyota",
+    "model": "PROACE Verso L 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " October 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 162,
+    "efficiency wh": {
+      "mi": 422
+    },
+    "Fast Charging Peak Rate MPH": "174"
+  },
+  {
+    "manufacture": "Toyota",
+    "model": "PROACE Shuttle M 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " June 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 162,
+    "efficiency wh": {
+      "mi": 422
+    },
+    "Fast Charging Peak Rate MPH": "174"
+  },
+  {
+    "manufacture": "Toyota",
+    "model": "PROACE Shuttle L 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " June 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 162,
+    "efficiency wh": {
+      "mi": 422
+    },
+    "Fast Charging Peak Rate MPH": "174"
+  },
+  {
+    "manufacture": "Citroen",
+    "model": "e-SpaceTourer XL 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " February 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.3 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 162,
+    "efficiency wh": {
+      "mi": 422
+    },
+    "Fast Charging Peak Rate MPH": "174"
+  },
+  {
+    "manufacture": "Citroen",
+    "model": "e-Jumpy Combi XL 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.3 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 162,
+    "efficiency wh": {
+      "mi": 422
+    },
+    "Fast Charging Peak Rate MPH": "174"
+  },
+  {
+    "manufacture": "Fiat",
+    "model": "E-Ulysse L3 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.3 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 162,
+    "efficiency wh": {
+      "mi": 422
+    },
+    "Fast Charging Peak Rate MPH": "174"
+  },
+  {
+    "manufacture": "Opel",
+    "model": "Zafira-e Life L 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " February 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.3 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 162,
+    "efficiency wh": {
+      "mi": 422
+    },
+    "Fast Charging Peak Rate MPH": "174"
+  },
+  {
+    "manufacture": "Opel",
+    "model": "Vivaro-e Combi L 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " October 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.3 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 162,
+    "efficiency wh": {
+      "mi": 422
+    },
+    "Fast Charging Peak Rate MPH": "174"
+  },
+  {
+    "manufacture": "Peugeot",
+    "model": "e-Traveller Long 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " February 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "14.3 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 162,
+    "efficiency wh": {
+      "mi": 422
+    },
+    "Fast Charging Peak Rate MPH": "174"
+  },
+  {
+    "manufacture": "Peugeot",
+    "model": "e-Expert Combi Long 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " February 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "14.3 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 162,
+    "efficiency wh": {
+      "mi": 422
+    },
+    "Fast Charging Peak Rate MPH": "174"
+  },
+  {
+    "manufacture": "Maxus",
+    "model": "MIFA 9 ",
+    "batterySize": "90 kWh ",
+    "availableDate": " February 2023",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "9.2 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 214,
+    "efficiency wh": {
+      "mi": 420
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Hyundai",
+    "model": "Kona Electric 48 kWh",
+    "batterySize": "48.4 kWh ",
+    "availableDate": " September 2023",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "10.0 sec",
+    "topSpeed MPH": 96,
+    "Range Miles": 186,
+    "efficiency wh": {
+      "mi": 259
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Citroen",
+    "model": "e-SpaceTourer M 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 115,
+    "efficiency wh": {
+      "mi": 402
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Citroen",
+    "model": "e-SpaceTourer XL 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 112,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Citroen",
+    "model": "e-Jumpy Combi M 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 115,
+    "efficiency wh": {
+      "mi": 402
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Citroen",
+    "model": "e-Jumpy Combi XL 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 112,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Fiat",
+    "model": "E-Ulysse L2 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 115,
+    "efficiency wh": {
+      "mi": 402
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Fiat",
+    "model": "E-Ulysse L3 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 112,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Opel",
+    "model": "Zafira-e Life M 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 115,
+    "efficiency wh": {
+      "mi": 402
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Opel",
+    "model": "Zafira-e Life L 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 112,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Opel",
+    "model": "Vivaro-e Combi M 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " October 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 115,
+    "efficiency wh": {
+      "mi": 402
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Opel",
+    "model": "Vivaro-e Combi L 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " October 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 112,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Toyota",
+    "model": "PROACE Shuttle M 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " June 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 112,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Toyota",
+    "model": "PROACE Shuttle L 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " June 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 112,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Peugeot",
+    "model": "e-Traveller Standard 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 115,
+    "efficiency wh": {
+      "mi": 402
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Peugeot",
+    "model": "e-Traveller Long 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 112,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Peugeot",
+    "model": "e-Expert Combi Standard 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " February 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 115,
+    "efficiency wh": {
+      "mi": 402
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Peugeot",
+    "model": "e-Expert Combi Long 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " February 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 112,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Toyota",
+    "model": "PROACE Verso M 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " October 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.1 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 165,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Citroen",
+    "model": "e-SpaceTourer M 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " February 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.3 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 165,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Citroen",
+    "model": "e-Jumpy Combi M 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.3 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 165,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Fiat",
+    "model": "E-Ulysse L2 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.3 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 165,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Opel",
+    "model": "Zafira-e Life M 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " February 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.3 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 165,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Opel",
+    "model": "Vivaro-e Combi M 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " October 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "13.3 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 165,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Peugeot",
+    "model": "e-Traveller Standard 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " February 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "14.3 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 165,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Peugeot",
+    "model": "e-Expert Combi Standard 75 kWh",
+    "batterySize": "68 kWh ",
+    "availableDate": " February 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "14.3 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 165,
+    "efficiency wh": {
+      "mi": 414
+    },
+    "Fast Charging Peak Rate MPH": "180"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "eVito Tourer Extra-Long 60 kWh",
+    "batterySize": "60 kWh ",
+    "availableDate": " January 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.0 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 127,
+    "efficiency wh": {
+      "mi": 472
+    },
+    "Fast Charging Peak Rate MPH": "186"
+  },
+  {
+    "manufacture": "BYD",
+    "model": "ATTO 3 ",
+    "batterySize": "60 kWh ",
+    "availableDate": " August 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.3 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 199,
+    "efficiency wh": {
+      "mi": 303
+    },
+    "Fast Charging Peak Rate MPH": "186"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "eVito Tourer Long 90 kWh",
+    "batterySize": "90 kWh ",
+    "availableDate": " October 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.0 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 193,
+    "efficiency wh": {
+      "mi": 467
+    },
+    "Fast Charging Peak Rate MPH": "193"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "eVito Tourer Extra-Long 90 kWh",
+    "batterySize": "90 kWh ",
+    "availableDate": " October 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.0 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 190,
+    "efficiency wh": {
+      "mi": 475
+    },
+    "Fast Charging Peak Rate MPH": "193"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "eVito Tourer Long 60 kWh",
+    "batterySize": "60 kWh ",
+    "availableDate": " January 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.0 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 130,
+    "efficiency wh": {
+      "mi": 460
+    },
+    "Fast Charging Peak Rate MPH": "193"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQV 300 Long",
+    "batterySize": "90 kWh ",
+    "availableDate": " September 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.1 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 190,
+    "efficiency wh": {
+      "mi": 475
+    },
+    "Fast Charging Peak Rate MPH": "193"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQV 300 Extra-Long",
+    "batterySize": "90 kWh ",
+    "availableDate": " October 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "12.1 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 190,
+    "efficiency wh": {
+      "mi": 475
+    },
+    "Fast Charging Peak Rate MPH": "193"
+  },
+  {
+    "manufacture": "MG",
+    "model": "MG5 Electric Standard Range",
+    "batterySize": "46 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.7 sec",
+    "topSpeed MPH": 115,
+    "Range Miles": 165,
+    "efficiency wh": {
+      "mi": 280
+    },
+    "Fast Charging Peak Rate MPH": "199"
+  },
+  {
+    "manufacture": "Citroen",
+    "model": "e-Berlingo XL 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " September 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "11.7 sec",
+    "topSpeed MPH": 84,
+    "Range Miles": 124,
+    "efficiency wh": {
+      "mi": 373
+    },
+    "Fast Charging Peak Rate MPH": "199"
+  },
+  {
+    "manufacture": "Opel",
+    "model": "Combo-e Life XL 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " October 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "11.7 sec",
+    "topSpeed MPH": 84,
+    "Range Miles": 124,
+    "efficiency wh": {
+      "mi": 373
+    },
+    "Fast Charging Peak Rate MPH": "199"
+  },
+  {
+    "manufacture": "Peugeot",
+    "model": "e-Rifter Long 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " July 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "11.7 sec",
+    "topSpeed MPH": 84,
+    "Range Miles": 124,
+    "efficiency wh": {
+      "mi": 373
+    },
+    "Fast Charging Peak Rate MPH": "199"
+  },
+  {
+    "manufacture": "MG",
+    "model": "MG5 Electric Long Range",
+    "batterySize": "57.4 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.7 sec",
+    "topSpeed MPH": 115,
+    "Range Miles": 208,
+    "efficiency wh": {
+      "mi": 275
+    },
+    "Fast Charging Peak Rate MPH": "205"
+  },
+  {
+    "manufacture": "BYD",
+    "model": "TANG ",
+    "batterySize": "84 kWh ",
+    "availableDate": " August 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "4.6 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 217,
+    "efficiency wh": {
+      "mi": 386
+    },
+    "Fast Charging Peak Rate MPH": "205"
+  },
+  {
+    "manufacture": "SsangYong",
+    "model": "Korando e-Motion",
+    "batterySize": "56 kWh ",
+    "availableDate": " February 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.5 sec",
+    "topSpeed MPH": 97,
+    "Range Miles": 180,
+    "efficiency wh": {
+      "mi": 311
+    },
+    "Fast Charging Peak Rate MPH": "205"
+  },
+  {
+    "manufacture": "Toyota",
+    "model": "Proace City Verso Electric L1 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " April 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "11.2 sec",
+    "topSpeed MPH": 84,
+    "Range Miles": 130,
+    "efficiency wh": {
+      "mi": 354
+    },
+    "Fast Charging Peak Rate MPH": "205"
+  },
+  {
+    "manufacture": "Toyota",
+    "model": "Proace City Verso Electric L2 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " April 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "11.2 sec",
+    "topSpeed MPH": 84,
+    "Range Miles": 127,
+    "efficiency wh": {
+      "mi": 364
+    },
+    "Fast Charging Peak Rate MPH": "205"
+  },
+  {
+    "manufacture": "Citroen",
+    "model": "e-Berlingo M 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " September 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "11.7 sec",
+    "topSpeed MPH": 84,
+    "Range Miles": 127,
+    "efficiency wh": {
+      "mi": 364
+    },
+    "Fast Charging Peak Rate MPH": "205"
+  },
+  {
+    "manufacture": "Opel",
+    "model": "Combo-e Life 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " October 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "11.7 sec",
+    "topSpeed MPH": 84,
+    "Range Miles": 127,
+    "efficiency wh": {
+      "mi": 364
+    },
+    "Fast Charging Peak Rate MPH": "205"
+  },
+  {
+    "manufacture": "Peugeot",
+    "model": "e-Rifter Standard 50 kWh",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " July 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "11.7 sec",
+    "topSpeed MPH": 84,
+    "Range Miles": 127,
+    "efficiency wh": {
+      "mi": 364
+    },
+    "Fast Charging Peak Rate MPH": "205"
+  },
+  {
+    "manufacture": "MG",
+    "model": "MG4 Electric 51 kWh",
+    "batterySize": "50.8 kWh ",
+    "availableDate": " October 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.7 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 186,
+    "efficiency wh": {
+      "mi": 272
+    },
+    "Fast Charging Peak Rate MPH": "211"
+  },
+  {
+    "manufacture": "Kia",
+    "model": "e-Soul 64 kWh",
+    "batterySize": "64 kWh ",
+    "availableDate": " September 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.9 sec",
+    "topSpeed MPH": 104,
+    "Range Miles": 230,
+    "efficiency wh": {
+      "mi": 278
+    },
+    "Fast Charging Peak Rate MPH": "217"
+  },
+  {
+    "manufacture": "Jaguar",
+    "model": "I-Pace EV400",
+    "batterySize": "84.7 kWh ",
+    "availableDate": " January 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.8 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 236,
+    "efficiency wh": {
+      "mi": 359
+    },
+    "Fast Charging Peak Rate MPH": "224"
+  },
+  {
+    "manufacture": "Ford",
+    "model": "Mustang Mach-E SR AWD",
+    "batterySize": "70 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.3 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 214,
+    "efficiency wh": {
+      "mi": 327
+    },
+    "Fast Charging Peak Rate MPH": "224"
+  },
+  {
+    "manufacture": "Volkswagen",
+    "model": "ID.4 Pure",
+    "batterySize": "52 kWh ",
+    "availableDate": " February 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "10.9 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 177,
+    "efficiency wh": {
+      "mi": 293
+    },
+    "Fast Charging Peak Rate MPH": "224"
+  },
+  {
+    "manufacture": "Audi",
+    "model": "Q4 e-tron 35",
+    "batterySize": "52 kWh ",
+    "availableDate": " June 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "9.0 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 177,
+    "efficiency wh": {
+      "mi": 293
+    },
+    "Fast Charging Peak Rate MPH": "224"
+  },
+  {
+    "manufacture": "Volkswagen",
+    "model": "ID.4 Pure Performance",
+    "batterySize": "52 kWh ",
+    "availableDate": " January 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "9.0 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 177,
+    "efficiency wh": {
+      "mi": 293
+    },
+    "Fast Charging Peak Rate MPH": "224"
+  },
+  {
+    "manufacture": "Renault",
+    "model": "Megane E-Tech EV40 130hp",
+    "batterySize": "40 kWh ",
+    "availableDate": " April 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "10.0 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 155,
+    "efficiency wh": {
+      "mi": 257
+    },
+    "Fast Charging Peak Rate MPH": "224"
+  },
+  {
+    "manufacture": "Ford",
+    "model": "Mustang Mach-E SR RWD",
+    "batterySize": "70 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.9 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 221,
+    "efficiency wh": {
+      "mi": 317
+    },
+    "Fast Charging Peak Rate MPH": "230"
+  },
+  {
+    "manufacture": "Hyundai",
+    "model": "Kona Electric 64 kWh",
+    "batterySize": "64 kWh ",
+    "availableDate": " June 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.9 sec",
+    "topSpeed MPH": 104,
+    "Range Miles": 245,
+    "efficiency wh": {
+      "mi": 261
+    },
+    "Fast Charging Peak Rate MPH": "230"
+  },
+  {
+    "manufacture": "Audi",
+    "model": "Q4 Sportback e-tron 35",
+    "batterySize": "52 kWh ",
+    "availableDate": " August 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "9.0 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 183,
+    "efficiency wh": {
+      "mi": 283
+    },
+    "Fast Charging Peak Rate MPH": "230"
+  },
+  {
+    "manufacture": "Abarth",
+    "model": "500e Scorpionissima",
+    "batterySize": "37.3 kWh ",
+    "availableDate": " January 2023",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "7.0 sec",
+    "topSpeed MPH": 96,
+    "Range Miles": 140,
+    "efficiency wh": {
+      "mi": 267
+    },
+    "Fast Charging Peak Rate MPH": "230"
+  },
+  {
+    "manufacture": "Ford",
+    "model": "Mustang Mach-E GT",
+    "batterySize": "91 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.4 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 264,
+    "efficiency wh": {
+      "mi": 344
+    },
+    "Fast Charging Peak Rate MPH": "236"
+  },
+  {
+    "manufacture": "Kia",
+    "model": "Niro EV ",
+    "batterySize": "64.8 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.8 sec",
+    "topSpeed MPH": 104,
+    "Range Miles": 236,
+    "efficiency wh": {
+      "mi": 275
+    },
+    "Fast Charging Peak Rate MPH": "236"
+  },
+  {
+    "manufacture": "Aiways",
+    "model": "U5 ",
+    "batterySize": "60 kWh ",
+    "availableDate": " April 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.5 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 196,
+    "efficiency wh": {
+      "mi": 306
+    },
+    "Fast Charging Peak Rate MPH": "236"
+  },
+  {
+    "manufacture": "Fiat",
+    "model": "500e Cabrio 42 kWh",
+    "batterySize": "37.3 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "9.0 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 143,
+    "efficiency wh": {
+      "mi": 261
+    },
+    "Fast Charging Peak Rate MPH": "236"
+  },
+  {
+    "manufacture": "MG",
+    "model": "Marvel R Performance",
+    "batterySize": "65 kWh ",
+    "availableDate": " October 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.9 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 205,
+    "efficiency wh": {
+      "mi": 317
+    },
+    "Fast Charging Peak Rate MPH": "242"
+  },
+  {
+    "manufacture": "Ford",
+    "model": "Mustang Mach-E ER AWD",
+    "batterySize": "91 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.8 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 273,
+    "efficiency wh": {
+      "mi": 333
+    },
+    "Fast Charging Peak Rate MPH": "242"
+  },
+  {
+    "manufacture": "Fiat",
+    "model": "500e Hatchback 42 kWh",
+    "batterySize": "37.3 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "9.0 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 146,
+    "efficiency wh": {
+      "mi": 256
+    },
+    "Fast Charging Peak Rate MPH": "242"
+  },
+  {
+    "manufacture": "Fiat",
+    "model": "500e 3+1 42 kWh",
+    "batterySize": "37.3 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "9.0 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 146,
+    "efficiency wh": {
+      "mi": 256
+    },
+    "Fast Charging Peak Rate MPH": "242"
+  },
+  {
+    "manufacture": "MG",
+    "model": "Marvel R ",
+    "batterySize": "65 kWh ",
+    "availableDate": " October 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.9 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 208,
+    "efficiency wh": {
+      "mi": 312
+    },
+    "Fast Charging Peak Rate MPH": "249"
+  },
+  {
+    "manufacture": "Ford",
+    "model": "Mustang Mach-E ER RWD",
+    "batterySize": "91 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.0 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 283,
+    "efficiency wh": {
+      "mi": 322
+    },
+    "Fast Charging Peak Rate MPH": "249"
+  },
+  {
+    "manufacture": "Hongqi",
+    "model": "E-HS9 99 kWh",
+    "batterySize": "90 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.9 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 221,
+    "efficiency wh": {
+      "mi": 409
+    },
+    "Fast Charging Peak Rate MPH": "255"
+  },
+  {
+    "manufacture": "MG",
+    "model": "ZS EV Long Range",
+    "batterySize": "68.3 kWh ",
+    "availableDate": " November 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.4 sec",
+    "topSpeed MPH": 109,
+    "Range Miles": 227,
+    "efficiency wh": {
+      "mi": 301
+    },
+    "Fast Charging Peak Rate MPH": "255"
+  },
+  {
+    "manufacture": "Hyundai",
+    "model": "Kona Electric 65 kWh",
+    "batterySize": "65.4 kWh ",
+    "availableDate": " September 2023",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.0 sec",
+    "topSpeed MPH": 104,
+    "Range Miles": 249,
+    "efficiency wh": {
+      "mi": 264
+    },
+    "Fast Charging Peak Rate MPH": "255"
+  },
+  {
+    "manufacture": "Hongqi",
+    "model": "E-HS9 84 kWh",
+    "batterySize": "76.5 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.5 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 190,
+    "efficiency wh": {
+      "mi": 404
+    },
+    "Fast Charging Peak Rate MPH": "261"
+  },
+  {
+    "manufacture": "Volvo",
+    "model": "XC40 Recharge Single Motor",
+    "batterySize": "66 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.3 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 214,
+    "efficiency wh": {
+      "mi": 307
+    },
+    "Fast Charging Peak Rate MPH": "261"
+  },
+  {
+    "manufacture": "Peugeot",
+    "model": "e-2008 SUV ",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " November 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.5 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 162,
+    "efficiency wh": {
+      "mi": 286
+    },
+    "Fast Charging Peak Rate MPH": "261"
+  },
+  {
+    "manufacture": "Opel",
+    "model": "Mokka-e ",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " November 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "9.2 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 162,
+    "efficiency wh": {
+      "mi": 286
+    },
+    "Fast Charging Peak Rate MPH": "261"
+  },
+  {
+    "manufacture": "Volvo",
+    "model": "C40 Recharge Single Motor",
+    "batterySize": "66 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.3 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 221,
+    "efficiency wh": {
+      "mi": 299
+    },
+    "Fast Charging Peak Rate MPH": "267"
+  },
+  {
+    "manufacture": "Aiways",
+    "model": "U6 ",
+    "batterySize": "60 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.0 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 217,
+    "efficiency wh": {
+      "mi": 275
+    },
+    "Fast Charging Peak Rate MPH": "267"
+  },
+  {
+    "manufacture": "Nissan",
+    "model": "Ariya 63kWh",
+    "batterySize": "63 kWh ",
+    "availableDate": " July 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.5 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 199,
+    "efficiency wh": {
+      "mi": 317
+    },
+    "Fast Charging Peak Rate MPH": "267"
+  },
+  {
+    "manufacture": "Maserati",
+    "model": "Grecale Folgore",
+    "batterySize": "95 kWh ",
+    "availableDate": " September 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.1 sec",
+    "topSpeed MPH": 137,
+    "Range Miles": 252,
+    "efficiency wh": {
+      "mi": 378
+    },
+    "Fast Charging Peak Rate MPH": "273"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQC 400 4MATIC",
+    "batterySize": "80 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.1 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 230,
+    "efficiency wh": {
+      "mi": 348
+    },
+    "Fast Charging Peak Rate MPH": "273"
+  },
+  {
+    "manufacture": "Skoda",
+    "model": "Enyaq iV 60",
+    "batterySize": "58 kWh ",
+    "availableDate": " April 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.7 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 202,
+    "efficiency wh": {
+      "mi": 286
+    },
+    "Fast Charging Peak Rate MPH": "273"
+  },
+  {
+    "manufacture": "Citroen",
+    "model": "e-C4 ",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " November 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "9.7 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 171,
+    "efficiency wh": {
+      "mi": 270
+    },
+    "Fast Charging Peak Rate MPH": "273"
+  },
+  {
+    "manufacture": "Citroen",
+    "model": "e-C4 X ",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "9.7 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 171,
+    "efficiency wh": {
+      "mi": 270
+    },
+    "Fast Charging Peak Rate MPH": "273"
+  },
+  {
+    "manufacture": "NIO",
+    "model": "EL7 100 kWh",
+    "batterySize": "90 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.9 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 267,
+    "efficiency wh": {
+      "mi": 336
+    },
+    "Fast Charging Peak Rate MPH": "280"
+  },
+  {
+    "manufacture": "BYD",
+    "model": "HAN ",
+    "batterySize": "83 kWh ",
+    "availableDate": " March 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.9 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 289,
+    "efficiency wh": {
+      "mi": 286
+    },
+    "Fast Charging Peak Rate MPH": "280"
+  },
+  {
+    "manufacture": "Volkswagen",
+    "model": "ID.3 Pro",
+    "batterySize": "58 kWh ",
+    "availableDate": " March 2023",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.3 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 217,
+    "efficiency wh": {
+      "mi": 267
+    },
+    "Fast Charging Peak Rate MPH": "280"
+  },
+  {
+    "manufacture": "MG",
+    "model": "MG4 Electric 64 kWh",
+    "batterySize": "61.7 kWh ",
+    "availableDate": " October 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.9 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 227,
+    "efficiency wh": {
+      "mi": 272
+    },
+    "Fast Charging Peak Rate MPH": "280"
+  },
+  {
+    "manufacture": "Skoda",
+    "model": "Enyaq Coupe iV 60",
+    "batterySize": "58 kWh ",
+    "availableDate": " July 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.8 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 208,
+    "efficiency wh": {
+      "mi": 278
+    },
+    "Fast Charging Peak Rate MPH": "280"
+  },
+  {
+    "manufacture": "Peugeot",
+    "model": "e-308 SW ",
+    "batterySize": "50.8 kWh ",
+    "availableDate": " May 2023",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "9.0 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 186,
+    "efficiency wh": {
+      "mi": 272
+    },
+    "Fast Charging Peak Rate MPH": "280"
+  },
+  {
+    "manufacture": "NIO",
+    "model": "EL7 75 kWh",
+    "batterySize": "70.5 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.9 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 211,
+    "efficiency wh": {
+      "mi": 333
+    },
+    "Fast Charging Peak Rate MPH": "286"
+  },
+  {
+    "manufacture": "Lexus",
+    "model": "RZ 450e",
+    "batterySize": "64 kWh ",
+    "availableDate": " February 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.6 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 193,
+    "efficiency wh": {
+      "mi": 332
+    },
+    "Fast Charging Peak Rate MPH": "286"
+  },
+  {
+    "manufacture": "CUPRA",
+    "model": "Born 170 kW - 58 kWh",
+    "batterySize": "58 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.6 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 214,
+    "efficiency wh": {
+      "mi": 270
+    },
+    "Fast Charging Peak Rate MPH": "286"
+  },
+  {
+    "manufacture": "Peugeot",
+    "model": "e-208 ",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " November 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.1 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 180,
+    "efficiency wh": {
+      "mi": 257
+    },
+    "Fast Charging Peak Rate MPH": "286"
+  },
+  {
+    "manufacture": "Peugeot",
+    "model": "e-308 ",
+    "batterySize": "50.8 kWh ",
+    "availableDate": " May 2023",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "9.0 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 193,
+    "efficiency wh": {
+      "mi": 264
+    },
+    "Fast Charging Peak Rate MPH": "286"
+  },
+  {
+    "manufacture": "Volkswagen",
+    "model": "ID. Buzz Pro",
+    "batterySize": "77 kWh ",
+    "availableDate": " September 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "10.2 sec",
+    "topSpeed MPH": 90,
+    "Range Miles": 205,
+    "efficiency wh": {
+      "mi": 375
+    },
+    "Fast Charging Peak Rate MPH": "286"
+  },
+  {
+    "manufacture": "CUPRA",
+    "model": "Born 150 kW - 58 kWh",
+    "batterySize": "58 kWh ",
+    "availableDate": " October 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.3 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 217,
+    "efficiency wh": {
+      "mi": 267
+    },
+    "Fast Charging Peak Rate MPH": "292"
+  },
+  {
+    "manufacture": "Opel",
+    "model": "Corsa-e ",
+    "batterySize": "46.3 kWh ",
+    "availableDate": " November 2021",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.1 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 183,
+    "efficiency wh": {
+      "mi": 253
+    },
+    "Fast Charging Peak Rate MPH": "292"
+  },
+  {
+    "manufacture": "Jeep",
+    "model": "Avenger Electric 1st Edition",
+    "batterySize": "50.8 kWh ",
+    "availableDate": " January 2023",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "9.0 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 183,
+    "efficiency wh": {
+      "mi": 277
+    },
+    "Fast Charging Peak Rate MPH": "292"
+  },
+  {
+    "manufacture": "BMW",
+    "model": "iX xDrive40",
+    "batterySize": "71 kWh ",
+    "availableDate": " October 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.1 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 224,
+    "efficiency wh": {
+      "mi": 317
+    },
+    "Fast Charging Peak Rate MPH": "298"
+  },
+  {
+    "manufacture": "Opel",
+    "model": "Astra Sports Tourer Electric",
+    "batterySize": "50.8 kWh ",
+    "availableDate": " May 2023",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.5 sec",
+    "topSpeed MPH": 106,
+    "Range Miles": 186,
+    "efficiency wh": {
+      "mi": 272
+    },
+    "Fast Charging Peak Rate MPH": "298"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQB 350 4MATIC",
+    "batterySize": "66.5 kWh ",
+    "availableDate": " February 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "6.2 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 208,
+    "efficiency wh": {
+      "mi": 320
+    },
+    "Fast Charging Peak Rate MPH": "298"
+  },
+  {
+    "manufacture": "Subaru",
+    "model": "Solterra AWD",
+    "batterySize": "64 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.9 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 199,
+    "efficiency wh": {
+      "mi": 322
+    },
+    "Fast Charging Peak Rate MPH": "298"
+  },
+  {
+    "manufacture": "Fisker",
+    "model": "Ocean Sport",
+    "batterySize": "75 kWh ",
+    "availableDate": " March 2023",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.4 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 236,
+    "efficiency wh": {
+      "mi": 317
+    },
+    "Fast Charging Peak Rate MPH": "298"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQB 300 4MATIC",
+    "batterySize": "66.5 kWh ",
+    "availableDate": " February 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "8.0 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 208,
+    "efficiency wh": {
+      "mi": 320
+    },
+    "Fast Charging Peak Rate MPH": "298"
+  },
+  {
+    "manufacture": "Peugeot",
+    "model": "e-208 ",
+    "batterySize": "48.1 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.2 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 193,
+    "efficiency wh": {
+      "mi": 249
+    },
+    "Fast Charging Peak Rate MPH": "298"
+  },
+  {
+    "manufacture": "DS",
+    "model": "3 E-Tense",
+    "batterySize": "50.8 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "9.0 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 186,
+    "efficiency wh": {
+      "mi": 272
+    },
+    "Fast Charging Peak Rate MPH": "298"
+  },
+  {
+    "manufacture": "Jeep",
+    "model": "Avenger Electric ",
+    "batterySize": "50.8 kWh ",
+    "availableDate": " January 2023",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "9.0 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 186,
+    "efficiency wh": {
+      "mi": 272
+    },
+    "Fast Charging Peak Rate MPH": "298"
+  },
+  {
+    "manufacture": "Smart",
+    "model": "#1 Brabus",
+    "batterySize": "62 kWh ",
+    "availableDate": " March 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.9 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 199,
+    "efficiency wh": {
+      "mi": 312
+    },
+    "Fast Charging Peak Rate MPH": "304"
+  },
+  {
+    "manufacture": "Audi",
+    "model": "Q4 e-tron 50 quattro",
+    "batterySize": "76.6 kWh ",
+    "availableDate": " July 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.2 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 239,
+    "efficiency wh": {
+      "mi": 320
+    },
+    "Fast Charging Peak Rate MPH": "304"
+  },
+  {
+    "manufacture": "Audi",
+    "model": "Q4 e-tron 45 quattro",
+    "batterySize": "76.6 kWh ",
+    "availableDate": " August 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.9 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 239,
+    "efficiency wh": {
+      "mi": 320
+    },
+    "Fast Charging Peak Rate MPH": "304"
+  },
+  {
+    "manufacture": "Toyota",
+    "model": "bZ4X AWD",
+    "batterySize": "64 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.9 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 205,
+    "efficiency wh": {
+      "mi": 312
+    },
+    "Fast Charging Peak Rate MPH": "304"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQB 250+",
+    "batterySize": "70.5 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "8.9 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 227,
+    "efficiency wh": {
+      "mi": 311
+    },
+    "Fast Charging Peak Rate MPH": "304"
+  },
+  {
+    "manufacture": "Nissan",
+    "model": "Ariya e-4ORCE 87kWh - 290 kW",
+    "batterySize": "87 kWh ",
+    "availableDate": " April 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.1 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 261,
+    "efficiency wh": {
+      "mi": 333
+    },
+    "Fast Charging Peak Rate MPH": "311"
+  },
+  {
+    "manufacture": "Nissan",
+    "model": "Ariya e-4ORCE 87kWh - 225 kW",
+    "batterySize": "87 kWh ",
+    "availableDate": " July 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.7 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 261,
+    "efficiency wh": {
+      "mi": 333
+    },
+    "Fast Charging Peak Rate MPH": "311"
+  },
+  {
+    "manufacture": "Audi",
+    "model": "Q4 Sportback e-tron 50 quattro",
+    "batterySize": "76.6 kWh ",
+    "availableDate": " August 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.2 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 249,
+    "efficiency wh": {
+      "mi": 309
+    },
+    "Fast Charging Peak Rate MPH": "311"
+  },
+  {
+    "manufacture": "Audi",
+    "model": "Q4 Sportback e-tron 45 quattro",
+    "batterySize": "76.6 kWh ",
+    "availableDate": " July 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.9 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 249,
+    "efficiency wh": {
+      "mi": 309
+    },
+    "Fast Charging Peak Rate MPH": "311"
+  },
+  {
+    "manufacture": "Opel",
+    "model": "Astra Electric",
+    "batterySize": "50.8 kWh ",
+    "availableDate": " May 2023",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.5 sec",
+    "topSpeed MPH": 106,
+    "Range Miles": 193,
+    "efficiency wh": {
+      "mi": 264
+    },
+    "Fast Charging Peak Rate MPH": "311"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQA 350 4MATIC",
+    "batterySize": "66.5 kWh ",
+    "availableDate": " May 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.0 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 217,
+    "efficiency wh": {
+      "mi": 306
+    },
+    "Fast Charging Peak Rate MPH": "311"
+  },
+  {
+    "manufacture": "Skoda",
+    "model": "Enyaq iV 80x",
+    "batterySize": "77 kWh ",
+    "availableDate": " June 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.9 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 249,
+    "efficiency wh": {
+      "mi": 311
+    },
+    "Fast Charging Peak Rate MPH": "311"
+  },
+  {
+    "manufacture": "Renault",
+    "model": "Megane E-Tech EV60 220hp",
+    "batterySize": "60 kWh ",
+    "availableDate": " April 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.4 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 224,
+    "efficiency wh": {
+      "mi": 269
+    },
+    "Fast Charging Peak Rate MPH": "311"
+  },
+  {
+    "manufacture": "Toyota",
+    "model": "bZ4X FWD",
+    "batterySize": "64 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.5 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 208,
+    "efficiency wh": {
+      "mi": 307
+    },
+    "Fast Charging Peak Rate MPH": "311"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQA 300 4MATIC",
+    "batterySize": "66.5 kWh ",
+    "availableDate": " May 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.7 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 217,
+    "efficiency wh": {
+      "mi": 306
+    },
+    "Fast Charging Peak Rate MPH": "311"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQB 250",
+    "batterySize": "66.5 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "8.9 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 214,
+    "efficiency wh": {
+      "mi": 311
+    },
+    "Fast Charging Peak Rate MPH": "311"
+  },
+  {
+    "manufacture": "BMW",
+    "model": "iX1 xDrive30",
+    "batterySize": "64.7 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.6 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 221,
+    "efficiency wh": {
+      "mi": 293
+    },
+    "Fast Charging Peak Rate MPH": "317"
+  },
+  {
+    "manufacture": "Smart",
+    "model": "#1 ",
+    "batterySize": "62 kWh ",
+    "availableDate": " March 2023",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.7 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 205,
+    "efficiency wh": {
+      "mi": 303
+    },
+    "Fast Charging Peak Rate MPH": "317"
+  },
+  {
+    "manufacture": "Volkswagen",
+    "model": "ID.4 Pro 4MOTION",
+    "batterySize": "77 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.9 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 252,
+    "efficiency wh": {
+      "mi": 306
+    },
+    "Fast Charging Peak Rate MPH": "317"
+  },
+  {
+    "manufacture": "Audi",
+    "model": "Q4 e-tron 40",
+    "batterySize": "76.6 kWh ",
+    "availableDate": " June 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.5 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 252,
+    "efficiency wh": {
+      "mi": 304
+    },
+    "Fast Charging Peak Rate MPH": "317"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQA 250",
+    "batterySize": "66.5 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.6 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 221,
+    "efficiency wh": {
+      "mi": 301
+    },
+    "Fast Charging Peak Rate MPH": "317"
+  },
+  {
+    "manufacture": "Renault",
+    "model": "Megane E-Tech EV60 130hp",
+    "batterySize": "60 kWh ",
+    "availableDate": " April 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "10.5 sec",
+    "topSpeed MPH": 93,
+    "Range Miles": 227,
+    "efficiency wh": {
+      "mi": 264
+    },
+    "Fast Charging Peak Rate MPH": "317"
+  },
+  {
+    "manufacture": "NIO",
+    "model": "ET5 100 kWh",
+    "batterySize": "90 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.0 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 308,
+    "efficiency wh": {
+      "mi": 293
+    },
+    "Fast Charging Peak Rate MPH": "323"
+  },
+  {
+    "manufacture": "VinFast",
+    "model": "VF 9 Extended Range",
+    "batterySize": "123 kWh ",
+    "availableDate": " June 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "6.5 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 323,
+    "efficiency wh": {
+      "mi": 381
+    },
+    "Fast Charging Peak Rate MPH": "323"
+  },
+  {
+    "manufacture": "BMW",
+    "model": "iX3 ",
+    "batterySize": "74 kWh ",
+    "availableDate": " September 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.8 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 239,
+    "efficiency wh": {
+      "mi": 309
+    },
+    "Fast Charging Peak Rate MPH": "323"
+  },
+  {
+    "manufacture": "Volkswagen",
+    "model": "ID.4 Pro",
+    "batterySize": "77 kWh ",
+    "availableDate": " February 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "10.4 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 255,
+    "efficiency wh": {
+      "mi": 303
+    },
+    "Fast Charging Peak Rate MPH": "323"
+  },
+  {
+    "manufacture": "Nissan",
+    "model": "Ariya 87kWh",
+    "batterySize": "87 kWh ",
+    "availableDate": " July 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.6 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 270,
+    "efficiency wh": {
+      "mi": 322
+    },
+    "Fast Charging Peak Rate MPH": "323"
+  },
+  {
+    "manufacture": "Volkswagen",
+    "model": "ID.4 Pro Performance",
+    "batterySize": "77 kWh ",
+    "availableDate": " January 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.5 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 255,
+    "efficiency wh": {
+      "mi": 303
+    },
+    "Fast Charging Peak Rate MPH": "323"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQA 250+",
+    "batterySize": "70.5 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "Front Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.6 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 233,
+    "efficiency wh": {
+      "mi": 303
+    },
+    "Fast Charging Peak Rate MPH": "323"
+  },
+  {
+    "manufacture": "NIO",
+    "model": "ET7 100 kWh",
+    "batterySize": "90 kWh ",
+    "availableDate": " October 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.8 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 314,
+    "efficiency wh": {
+      "mi": 286
+    },
+    "Fast Charging Peak Rate MPH": "329"
+  },
+  {
+    "manufacture": "NIO",
+    "model": "ET5 75 kWh",
+    "batterySize": "70.5 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.0 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 245,
+    "efficiency wh": {
+      "mi": 286
+    },
+    "Fast Charging Peak Rate MPH": "329"
+  },
+  {
+    "manufacture": "Skoda",
+    "model": "Enyaq iV 80",
+    "batterySize": "77 kWh ",
+    "availableDate": " April 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.6 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 261,
+    "efficiency wh": {
+      "mi": 295
+    },
+    "Fast Charging Peak Rate MPH": "329"
+  },
+  {
+    "manufacture": "Rolls-Royce",
+    "model": "Spectre ",
+    "batterySize": "100 kWh ",
+    "availableDate": " November 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "4.5 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 283,
+    "efficiency wh": {
+      "mi": 354
+    },
+    "Fast Charging Peak Rate MPH": "336"
+  },
+  {
+    "manufacture": "NIO",
+    "model": "ET7 75 kWh",
+    "batterySize": "70.5 kWh ",
+    "availableDate": " October 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.8 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 249,
+    "efficiency wh": {
+      "mi": 283
+    },
+    "Fast Charging Peak Rate MPH": "336"
+  },
+  {
+    "manufacture": "VinFast",
+    "model": "VF 9 Standard Range",
+    "batterySize": "92 kWh ",
+    "availableDate": " June 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "6.5 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 249,
+    "efficiency wh": {
+      "mi": 370
+    },
+    "Fast Charging Peak Rate MPH": "336"
+  },
+  {
+    "manufacture": "BMW",
+    "model": "i4 eDrive35",
+    "batterySize": "67 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.0 sec",
+    "topSpeed MPH": 118,
+    "Range Miles": 249,
+    "efficiency wh": {
+      "mi": 270
+    },
+    "Fast Charging Peak Rate MPH": "336"
+  },
+  {
+    "manufacture": "Skoda",
+    "model": "Enyaq iV RS",
+    "batterySize": "77 kWh ",
+    "availableDate": " October 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.2 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 242,
+    "efficiency wh": {
+      "mi": 317
+    },
+    "Fast Charging Peak Rate MPH": "336"
+  },
+  {
+    "manufacture": "Volkswagen",
+    "model": "ID.5 Pro",
+    "batterySize": "77 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "10.4 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 267,
+    "efficiency wh": {
+      "mi": 288
+    },
+    "Fast Charging Peak Rate MPH": "336"
+  },
+  {
+    "manufacture": "Skoda",
+    "model": "Enyaq Coupe iV 80x",
+    "batterySize": "77 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.0 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 267,
+    "efficiency wh": {
+      "mi": 288
+    },
+    "Fast Charging Peak Rate MPH": "336"
+  },
+  {
+    "manufacture": "Volkswagen",
+    "model": "ID.5 Pro Performance",
+    "batterySize": "77 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.4 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 267,
+    "efficiency wh": {
+      "mi": 288
+    },
+    "Fast Charging Peak Rate MPH": "336"
+  },
+  {
+    "manufacture": "Audi",
+    "model": "Q4 Sportback e-tron 40",
+    "batterySize": "76.6 kWh ",
+    "availableDate": " August 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.5 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 264,
+    "efficiency wh": {
+      "mi": 290
+    },
+    "Fast Charging Peak Rate MPH": "336"
+  },
+  {
+    "manufacture": "VinFast",
+    "model": "VF 8 Plus Extended Range",
+    "batterySize": "87.7 kWh ",
+    "availableDate": " May 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.5 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 264,
+    "efficiency wh": {
+      "mi": 332
+    },
+    "Fast Charging Peak Rate MPH": "342"
+  },
+  {
+    "manufacture": "VinFast",
+    "model": "VF 8 Eco Extended Range",
+    "batterySize": "87.7 kWh ",
+    "availableDate": " May 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.9 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 264,
+    "efficiency wh": {
+      "mi": 332
+    },
+    "Fast Charging Peak Rate MPH": "342"
+  },
+  {
+    "manufacture": "VinFast",
+    "model": "VF 8 Plus Standard Range",
+    "batterySize": "82 kWh ",
+    "availableDate": " May 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.5 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 249,
+    "efficiency wh": {
+      "mi": 330
+    },
+    "Fast Charging Peak Rate MPH": "348"
+  },
+  {
+    "manufacture": "VinFast",
+    "model": "VF 8 Eco Standard Range",
+    "batterySize": "82 kWh ",
+    "availableDate": " May 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.9 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 252,
+    "efficiency wh": {
+      "mi": 325
+    },
+    "Fast Charging Peak Rate MPH": "348"
+  },
+  {
+    "manufacture": "Volkswagen",
+    "model": "ID.5 GTX",
+    "batterySize": "77 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.3 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 252,
+    "efficiency wh": {
+      "mi": 306
+    },
+    "Fast Charging Peak Rate MPH": "348"
+  },
+  {
+    "manufacture": "Volkswagen",
+    "model": "ID.4 GTX",
+    "batterySize": "77 kWh ",
+    "availableDate": " July 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.3 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 249,
+    "efficiency wh": {
+      "mi": 311
+    },
+    "Fast Charging Peak Rate MPH": "348"
+  },
+  {
+    "manufacture": "Skoda",
+    "model": "Enyaq Coupe iV RS",
+    "batterySize": "77 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.5 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 252,
+    "efficiency wh": {
+      "mi": 306
+    },
+    "Fast Charging Peak Rate MPH": "348"
+  },
+  {
+    "manufacture": "Skoda",
+    "model": "Enyaq Coupe iV 80",
+    "batterySize": "77 kWh ",
+    "availableDate": " July 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.7 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 277,
+    "efficiency wh": {
+      "mi": 278
+    },
+    "Fast Charging Peak Rate MPH": "348"
+  },
+  {
+    "manufacture": "Volvo",
+    "model": "EX90 Twin Motor Performance",
+    "batterySize": "107 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "4.9 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 273,
+    "efficiency wh": {
+      "mi": 391
+    },
+    "Fast Charging Peak Rate MPH": "354"
+  },
+  {
+    "manufacture": "CUPRA",
+    "model": "Born 170 kW - 77 kWh",
+    "batterySize": "77 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "7.0 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 280,
+    "efficiency wh": {
+      "mi": 275
+    },
+    "Fast Charging Peak Rate MPH": "354"
+  },
+  {
+    "manufacture": "Tesla",
+    "model": "Model Y ",
+    "batterySize": "57.5 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.9 sec",
+    "topSpeed MPH": 135,
+    "Range Miles": 214,
+    "efficiency wh": {
+      "mi": 269
+    },
+    "Fast Charging Peak Rate MPH": "360"
+  },
+  {
+    "manufacture": "Audi",
+    "model": "Q8 e-tron 50 quattro",
+    "batterySize": "89 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.0 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 258,
+    "efficiency wh": {
+      "mi": 344
+    },
+    "Fast Charging Peak Rate MPH": "360"
+  },
+  {
+    "manufacture": "Volvo",
+    "model": "XC40 Recharge Twin Motor",
+    "batterySize": "79 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.8 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 242,
+    "efficiency wh": {
+      "mi": 327
+    },
+    "Fast Charging Peak Rate MPH": "360"
+  },
+  {
+    "manufacture": "Volvo",
+    "model": "EX90 Twin Motor",
+    "batterySize": "107 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "5.9 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 283,
+    "efficiency wh": {
+      "mi": 378
+    },
+    "Fast Charging Peak Rate MPH": "367"
+  },
+  {
+    "manufacture": "Audi",
+    "model": "SQ8 e-tron ",
+    "batterySize": "106 kWh ",
+    "availableDate": " May 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.5 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 277,
+    "efficiency wh": {
+      "mi": 383
+    },
+    "Fast Charging Peak Rate MPH": "373"
+  },
+  {
+    "manufacture": "Volvo",
+    "model": "C40 Recharge Twin Motor",
+    "batterySize": "79 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.7 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 249,
+    "efficiency wh": {
+      "mi": 319
+    },
+    "Fast Charging Peak Rate MPH": "373"
+  },
+  {
+    "manufacture": "Volvo",
+    "model": "XC40 Recharge Single Motor ER",
+    "batterySize": "79 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.3 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 252,
+    "efficiency wh": {
+      "mi": 314
+    },
+    "Fast Charging Peak Rate MPH": "373"
+  },
+  {
+    "manufacture": "Polestar",
+    "model": "3 Long Range Performance",
+    "batterySize": "107 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.7 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 292,
+    "efficiency wh": {
+      "mi": 367
+    },
+    "Fast Charging Peak Rate MPH": "379"
+  },
+  {
+    "manufacture": "Audi",
+    "model": "Q8 e-tron Sportback 50 quattro",
+    "batterySize": "89 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.0 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 273,
+    "efficiency wh": {
+      "mi": 325
+    },
+    "Fast Charging Peak Rate MPH": "379"
+  },
+  {
+    "manufacture": "Polestar",
+    "model": "2 Standard Range Single Motor",
+    "batterySize": "67 kWh ",
+    "availableDate": " January 2023",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.4 sec",
+    "topSpeed MPH": 127,
+    "Range Miles": 239,
+    "efficiency wh": {
+      "mi": 280
+    },
+    "Fast Charging Peak Rate MPH": "385"
+  },
+  {
+    "manufacture": "Tesla",
+    "model": "Model X Plaid",
+    "batterySize": "95 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "2.6 sec",
+    "topSpeed MPH": 163,
+    "Range Miles": 283,
+    "efficiency wh": {
+      "mi": 336
+    },
+    "Fast Charging Peak Rate MPH": "391"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQE SUV AMG 53 4MATIC+",
+    "batterySize": "90.6 kWh ",
+    "availableDate": " May 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.5 sec",
+    "topSpeed MPH": 149,
+    "Range Miles": 264,
+    "efficiency wh": {
+      "mi": 343
+    },
+    "Fast Charging Peak Rate MPH": "391"
+  },
+  {
+    "manufacture": "Tesla",
+    "model": "Model 3 ",
+    "batterySize": "57.5 kWh ",
+    "availableDate": " December 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.1 sec",
+    "topSpeed MPH": 140,
+    "Range Miles": 236,
+    "efficiency wh": {
+      "mi": 243
+    },
+    "Fast Charging Peak Rate MPH": "391"
+  },
+  {
+    "manufacture": "Audi",
+    "model": "SQ8 e-tron Sportback ",
+    "batterySize": "106 kWh ",
+    "availableDate": " May 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.5 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 292,
+    "efficiency wh": {
+      "mi": 364
+    },
+    "Fast Charging Peak Rate MPH": "391"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQS SUV 580 4MATIC",
+    "batterySize": "108.4 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "4.6 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 301,
+    "efficiency wh": {
+      "mi": 360
+    },
+    "Fast Charging Peak Rate MPH": "391"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQS SUV 500 4MATIC",
+    "batterySize": "108.4 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "5.2 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 301,
+    "efficiency wh": {
+      "mi": 360
+    },
+    "Fast Charging Peak Rate MPH": "391"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQS SUV 450 4MATIC",
+    "batterySize": "108.4 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "6.0 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 301,
+    "efficiency wh": {
+      "mi": 360
+    },
+    "Fast Charging Peak Rate MPH": "391"
+  },
+  {
+    "manufacture": "Polestar",
+    "model": "2 Long Range Performance",
+    "batterySize": "78 kWh ",
+    "availableDate": " January 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.2 sec",
+    "topSpeed MPH": 127,
+    "Range Miles": 255,
+    "efficiency wh": {
+      "mi": 306
+    },
+    "Fast Charging Peak Rate MPH": "391"
+  },
+  {
+    "manufacture": "Volvo",
+    "model": "C40 Recharge Single Motor ER",
+    "batterySize": "79 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.3 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 261,
+    "efficiency wh": {
+      "mi": 303
+    },
+    "Fast Charging Peak Rate MPH": "391"
+  },
+  {
+    "manufacture": "Tesla",
+    "model": "Model Y Performance",
+    "batterySize": "75 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.7 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 258,
+    "efficiency wh": {
+      "mi": 291
+    },
+    "Fast Charging Peak Rate MPH": "398"
+  },
+  {
+    "manufacture": "Polestar",
+    "model": "3 Long Range Dual motor",
+    "batterySize": "107 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.0 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 304,
+    "efficiency wh": {
+      "mi": 351
+    },
+    "Fast Charging Peak Rate MPH": "398"
+  },
+  {
+    "manufacture": "BMW",
+    "model": "iX M60",
+    "batterySize": "105.2 kWh ",
+    "availableDate": " April 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.8 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 301,
+    "efficiency wh": {
+      "mi": 349
+    },
+    "Fast Charging Peak Rate MPH": "404"
+  },
+  {
+    "manufacture": "Tesla",
+    "model": "Model X Dual Motor",
+    "batterySize": "95 kWh ",
+    "availableDate": " January 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "3.9 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 292,
+    "efficiency wh": {
+      "mi": 325
+    },
+    "Fast Charging Peak Rate MPH": "404"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQE SUV AMG 43 4MATIC",
+    "batterySize": "90.6 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.3 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 270,
+    "efficiency wh": {
+      "mi": 335
+    },
+    "Fast Charging Peak Rate MPH": "404"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQE 350",
+    "batterySize": "89 kWh ",
+    "availableDate": " July 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.4 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 320,
+    "efficiency wh": {
+      "mi": 278
+    },
+    "Fast Charging Peak Rate MPH": "404"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQS SUV 450+",
+    "batterySize": "108.4 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "6.7 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 308,
+    "efficiency wh": {
+      "mi": 352
+    },
+    "Fast Charging Peak Rate MPH": "404"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQE 300",
+    "batterySize": "89 kWh ",
+    "availableDate": " July 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.6 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 320,
+    "efficiency wh": {
+      "mi": 278
+    },
+    "Fast Charging Peak Rate MPH": "404"
+  },
+  {
+    "manufacture": "Polestar",
+    "model": "2 Long Range Dual Motor",
+    "batterySize": "78 kWh ",
+    "availableDate": " January 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.5 sec",
+    "topSpeed MPH": 127,
+    "Range Miles": 261,
+    "efficiency wh": {
+      "mi": 299
+    },
+    "Fast Charging Peak Rate MPH": "404"
+  },
+  {
+    "manufacture": "XPENG",
+    "model": "P7 AWD Performance",
+    "batterySize": "82.7 kWh ",
+    "availableDate": " February 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.1 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 292,
+    "efficiency wh": {
+      "mi": 283
+    },
+    "Fast Charging Peak Rate MPH": "404"
+  },
+  {
+    "manufacture": "XPENG",
+    "model": "P7 Wing Edition",
+    "batterySize": "82.7 kWh ",
+    "availableDate": " February 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.1 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 289,
+    "efficiency wh": {
+      "mi": 286
+    },
+    "Fast Charging Peak Rate MPH": "404"
+  },
+  {
+    "manufacture": "BMW",
+    "model": "i4 M50",
+    "batterySize": "80.7 kWh ",
+    "availableDate": " November 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.9 sec",
+    "topSpeed MPH": 140,
+    "Range Miles": 270,
+    "efficiency wh": {
+      "mi": 299
+    },
+    "Fast Charging Peak Rate MPH": "416"
+  },
+  {
+    "manufacture": "Tesla",
+    "model": "Model Y Long Range Dual Motor",
+    "batterySize": "75 kWh ",
+    "availableDate": " February 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.0 sec",
+    "topSpeed MPH": 135,
+    "Range Miles": 270,
+    "efficiency wh": {
+      "mi": 277
+    },
+    "Fast Charging Peak Rate MPH": "416"
+  },
+  {
+    "manufacture": "Audi",
+    "model": "Q8 e-tron 55 quattro",
+    "batterySize": "106 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.6 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 308,
+    "efficiency wh": {
+      "mi": 344
+    },
+    "Fast Charging Peak Rate MPH": "416"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQE SUV 500 4MATIC",
+    "batterySize": "90.6 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.0 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 283,
+    "efficiency wh": {
+      "mi": 320
+    },
+    "Fast Charging Peak Rate MPH": "423"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQE SUV 350 4MATIC",
+    "batterySize": "90.6 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.5 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 283,
+    "efficiency wh": {
+      "mi": 320
+    },
+    "Fast Charging Peak Rate MPH": "423"
+  },
+  {
+    "manufacture": "Polestar",
+    "model": "2 Long Range Single Motor",
+    "batterySize": "78 kWh ",
+    "availableDate": " January 2023",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.2 sec",
+    "topSpeed MPH": 127,
+    "Range Miles": 273,
+    "efficiency wh": {
+      "mi": 285
+    },
+    "Fast Charging Peak Rate MPH": "423"
+  },
+  {
+    "manufacture": "BMW",
+    "model": "iX xDrive50",
+    "batterySize": "105.2 kWh ",
+    "availableDate": " November 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.6 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 314,
+    "efficiency wh": {
+      "mi": 335
+    },
+    "Fast Charging Peak Rate MPH": "423"
+  },
+  {
+    "manufacture": "Volkswagen",
+    "model": "ID.3 Pro S - 4 Seats",
+    "batterySize": "77 kWh ",
+    "availableDate": " March 2023",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "7.9 sec",
+    "topSpeed MPH": 99,
+    "Range Miles": 283,
+    "efficiency wh": {
+      "mi": 272
+    },
+    "Fast Charging Peak Rate MPH": "423"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQE SUV 350+",
+    "batterySize": "90.6 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.0 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 292,
+    "efficiency wh": {
+      "mi": 311
+    },
+    "Fast Charging Peak Rate MPH": "435"
+  },
+  {
+    "manufacture": "XPENG",
+    "model": "P7 RWD Long Range",
+    "batterySize": "82.7 kWh ",
+    "availableDate": " February 2023",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.7 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 311,
+    "efficiency wh": {
+      "mi": 266
+    },
+    "Fast Charging Peak Rate MPH": "435"
+  },
+  {
+    "manufacture": "Volkswagen",
+    "model": "ID.7 Pro",
+    "batterySize": "77 kWh ",
+    "availableDate": " October 2023",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.0 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 292,
+    "efficiency wh": {
+      "mi": 264
+    },
+    "Fast Charging Peak Rate MPH": "435"
+  },
+  {
+    "manufacture": "Tesla",
+    "model": "Model 3 Performance",
+    "batterySize": "75 kWh ",
+    "availableDate": " February 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.3 sec",
+    "topSpeed MPH": 162,
+    "Range Miles": 286,
+    "efficiency wh": {
+      "mi": 262
+    },
+    "Fast Charging Peak Rate MPH": "441"
+  },
+  {
+    "manufacture": "Polestar",
+    "model": "4 Long Range Dual Motor",
+    "batterySize": "94 kWh ",
+    "availableDate": " February 2024",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.8 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 295,
+    "efficiency wh": {
+      "mi": 319
+    },
+    "Fast Charging Peak Rate MPH": "441"
+  },
+  {
+    "manufacture": "Audi",
+    "model": "Q8 e-tron Sportback 55 quattro",
+    "batterySize": "106 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.6 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 326,
+    "efficiency wh": {
+      "mi": 325
+    },
+    "Fast Charging Peak Rate MPH": "441"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQE AMG 53 4MATIC+",
+    "batterySize": "90.6 kWh ",
+    "availableDate": " July 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.5 sec",
+    "topSpeed MPH": 149,
+    "Range Miles": 298,
+    "efficiency wh": {
+      "mi": 304
+    },
+    "Fast Charging Peak Rate MPH": "447"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQE AMG 43 4MATIC",
+    "batterySize": "90.6 kWh ",
+    "availableDate": " April 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.2 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 301,
+    "efficiency wh": {
+      "mi": 301
+    },
+    "Fast Charging Peak Rate MPH": "447"
+  },
+  {
+    "manufacture": "Hyundai",
+    "model": "IONIQ 5 Standard Range 2WD",
+    "batterySize": "54 kWh ",
+    "availableDate": " July 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.5 sec",
+    "topSpeed MPH": 115,
+    "Range Miles": 183,
+    "efficiency wh": {
+      "mi": 295
+    },
+    "Fast Charging Peak Rate MPH": "447"
+  },
+  {
+    "manufacture": "BMW",
+    "model": "i7 M70 xDrive",
+    "batterySize": "101.7 kWh ",
+    "availableDate": " September 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.7 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 304,
+    "efficiency wh": {
+      "mi": 335
+    },
+    "Fast Charging Peak Rate MPH": "454"
+  },
+  {
+    "manufacture": "Fisker",
+    "model": "Ocean Extreme",
+    "batterySize": "100 kWh ",
+    "availableDate": " March 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.9 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 317,
+    "efficiency wh": {
+      "mi": 315
+    },
+    "Fast Charging Peak Rate MPH": "454"
+  },
+  {
+    "manufacture": "Fisker",
+    "model": "Ocean One",
+    "batterySize": "100 kWh ",
+    "availableDate": " March 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.9 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 317,
+    "efficiency wh": {
+      "mi": 315
+    },
+    "Fast Charging Peak Rate MPH": "454"
+  },
+  {
+    "manufacture": "Fisker",
+    "model": "Ocean Ultra",
+    "batterySize": "100 kWh ",
+    "availableDate": " March 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.2 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 317,
+    "efficiency wh": {
+      "mi": 315
+    },
+    "Fast Charging Peak Rate MPH": "454"
+  },
+  {
+    "manufacture": "BMW",
+    "model": "i4 eDrive40",
+    "batterySize": "80.7 kWh ",
+    "availableDate": " November 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.7 sec",
+    "topSpeed MPH": 118,
+    "Range Miles": 292,
+    "efficiency wh": {
+      "mi": 277
+    },
+    "Fast Charging Peak Rate MPH": "454"
+  },
+  {
+    "manufacture": "Tesla",
+    "model": "Model 3 Long Range Dual Motor",
+    "batterySize": "75 kWh ",
+    "availableDate": " November 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.4 sec",
+    "topSpeed MPH": 145,
+    "Range Miles": 301,
+    "efficiency wh": {
+      "mi": 249
+    },
+    "Fast Charging Peak Rate MPH": "466"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQE 500 4MATIC",
+    "batterySize": "90.6 kWh ",
+    "availableDate": " July 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.7 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 311,
+    "efficiency wh": {
+      "mi": 291
+    },
+    "Fast Charging Peak Rate MPH": "466"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQE 350 4MATIC",
+    "batterySize": "90.6 kWh ",
+    "availableDate": " July 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.3 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 311,
+    "efficiency wh": {
+      "mi": 291
+    },
+    "Fast Charging Peak Rate MPH": "466"
+  },
+  {
+    "manufacture": "Kia",
+    "model": "EV6 Standard Range 2WD",
+    "batterySize": "54 kWh ",
+    "availableDate": " October 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.5 sec",
+    "topSpeed MPH": 115,
+    "Range Miles": 190,
+    "efficiency wh": {
+      "mi": 285
+    },
+    "Fast Charging Peak Rate MPH": "466"
+  },
+  {
+    "manufacture": "BMW",
+    "model": "i7 xDrive60",
+    "batterySize": "101.7 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.7 sec",
+    "topSpeed MPH": 149,
+    "Range Miles": 317,
+    "efficiency wh": {
+      "mi": 320
+    },
+    "Fast Charging Peak Rate MPH": "472"
+  },
+  {
+    "manufacture": "Polestar",
+    "model": "4 Long Range Single Motor",
+    "batterySize": "94 kWh ",
+    "availableDate": " February 2024",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.4 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 317,
+    "efficiency wh": {
+      "mi": 296
+    },
+    "Fast Charging Peak Rate MPH": "472"
+  },
+  {
+    "manufacture": "Tesla",
+    "model": "Model S Plaid",
+    "batterySize": "95 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "2.1 sec",
+    "topSpeed MPH": 175,
+    "Range Miles": 342,
+    "efficiency wh": {
+      "mi": 278
+    },
+    "Fast Charging Peak Rate MPH": "478"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQE 350+",
+    "batterySize": "90.6 kWh ",
+    "availableDate": " April 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.4 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 326,
+    "efficiency wh": {
+      "mi": 278
+    },
+    "Fast Charging Peak Rate MPH": "485"
+  },
+  {
+    "manufacture": "XPENG",
+    "model": "G9 RWD Standard Range",
+    "batterySize": "75 kWh ",
+    "availableDate": " February 2023",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.4 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 233,
+    "efficiency wh": {
+      "mi": 322
+    },
+    "Fast Charging Peak Rate MPH": "485"
+  },
+  {
+    "manufacture": "Tesla",
+    "model": "Model S Dual Motor",
+    "batterySize": "95 kWh ",
+    "availableDate": " January 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.2 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 354,
+    "efficiency wh": {
+      "mi": 269
+    },
+    "Fast Charging Peak Rate MPH": "491"
+  },
+  {
+    "manufacture": "Volkswagen",
+    "model": "ID.7 Pro S",
+    "batterySize": "86 kWh ",
+    "availableDate": " October 2023",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.0 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 323,
+    "efficiency wh": {
+      "mi": 266
+    },
+    "Fast Charging Peak Rate MPH": "497"
+  },
+  {
+    "manufacture": "Lucid",
+    "model": "Air Dream Edition P",
+    "batterySize": "118 kWh ",
+    "availableDate": " January 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "2.7 sec",
+    "topSpeed MPH": 168,
+    "Range Miles": 401,
+    "efficiency wh": {
+      "mi": 295
+    },
+    "Fast Charging Peak Rate MPH": "510"
+  },
+  {
+    "manufacture": "Lucid",
+    "model": "Air Grand Touring",
+    "batterySize": "112 kWh ",
+    "availableDate": " February 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.2 sec",
+    "topSpeed MPH": 168,
+    "Range Miles": 413,
+    "efficiency wh": {
+      "mi": 270
+    },
+    "Fast Charging Peak Rate MPH": "522"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQS AMG 53 4MATIC+",
+    "batterySize": "107.8 kWh ",
+    "availableDate": " February 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.4 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 351,
+    "efficiency wh": {
+      "mi": 307
+    },
+    "Fast Charging Peak Rate MPH": "522"
+  },
+  {
+    "manufacture": "Kia",
+    "model": "EV9 99.8 kWh AWD",
+    "batterySize": "99.8 kWh ",
+    "availableDate": " September 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "5.3 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 280,
+    "efficiency wh": {
+      "mi": 357
+    },
+    "Fast Charging Peak Rate MPH": "528"
+  },
+  {
+    "manufacture": "Genesis",
+    "model": "GV70 Electrified Sport",
+    "batterySize": "74 kWh ",
+    "availableDate": " October 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.2 sec",
+    "topSpeed MPH": 146,
+    "Range Miles": 217,
+    "efficiency wh": {
+      "mi": 340
+    },
+    "Fast Charging Peak Rate MPH": "534"
+  },
+  {
+    "manufacture": "Lucid",
+    "model": "Air Dream Edition R",
+    "batterySize": "118 kWh ",
+    "availableDate": " January 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "2.9 sec",
+    "topSpeed MPH": 168,
+    "Range Miles": 426,
+    "efficiency wh": {
+      "mi": 277
+    },
+    "Fast Charging Peak Rate MPH": "541"
+  },
+  {
+    "manufacture": "Kia",
+    "model": "EV9 99.8 kWh RWD",
+    "batterySize": "99.8 kWh ",
+    "availableDate": " September 2023",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 7,
+    "acceleration 0-60": "9.4 sec",
+    "topSpeed MPH": 112,
+    "Range Miles": 286,
+    "efficiency wh": {
+      "mi": 349
+    },
+    "Fast Charging Peak Rate MPH": "541"
+  },
+  {
+    "manufacture": "Genesis",
+    "model": "G80 Electrified Luxury",
+    "batterySize": "82.5 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.9 sec",
+    "topSpeed MPH": 140,
+    "Range Miles": 273,
+    "efficiency wh": {
+      "mi": 303
+    },
+    "Fast Charging Peak Rate MPH": "547"
+  },
+  {
+    "manufacture": "Hyundai",
+    "model": "IONIQ 6 Standard Range 2WD",
+    "batterySize": "54 kWh ",
+    "availableDate": " January 2023",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "8.8 sec",
+    "topSpeed MPH": 115,
+    "Range Miles": 224,
+    "efficiency wh": {
+      "mi": 241
+    },
+    "Fast Charging Peak Rate MPH": "547"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQS 580 4MATIC",
+    "batterySize": "107.8 kWh ",
+    "availableDate": " October 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.3 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 376,
+    "efficiency wh": {
+      "mi": 286
+    },
+    "Fast Charging Peak Rate MPH": "559"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQS 500 4MATIC",
+    "batterySize": "107.8 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.8 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 376,
+    "efficiency wh": {
+      "mi": 286
+    },
+    "Fast Charging Peak Rate MPH": "559"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan 4S Sport Turismo",
+    "batterySize": "71 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "4.0 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 230,
+    "efficiency wh": {
+      "mi": 309
+    },
+    "Fast Charging Peak Rate MPH": "565"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQS 450 4MATIC",
+    "batterySize": "107.8 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.6 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 382,
+    "efficiency wh": {
+      "mi": 282
+    },
+    "Fast Charging Peak Rate MPH": "572"
+  },
+  {
+    "manufacture": "XPENG",
+    "model": "G9 AWD Long Range",
+    "batterySize": "94 kWh ",
+    "availableDate": " February 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.9 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 273,
+    "efficiency wh": {
+      "mi": 344
+    },
+    "Fast Charging Peak Rate MPH": "572"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan Sport Turismo",
+    "batterySize": "71 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "5.4 sec",
+    "topSpeed MPH": 143,
+    "Range Miles": 236,
+    "efficiency wh": {
+      "mi": 301
+    },
+    "Fast Charging Peak Rate MPH": "578"
+  },
+  {
+    "manufacture": "Lotus",
+    "model": "Eletre R",
+    "batterySize": "107 kWh ",
+    "availableDate": " March 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "2.9 sec",
+    "topSpeed MPH": 162,
+    "Range Miles": 280,
+    "efficiency wh": {
+      "mi": 383
+    },
+    "Fast Charging Peak Rate MPH": "584"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan Turbo S Cross Turismo",
+    "batterySize": "83.7 kWh ",
+    "availableDate": " July 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "2.9 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 239,
+    "efficiency wh": {
+      "mi": 349
+    },
+    "Fast Charging Peak Rate MPH": "590"
+  },
+  {
+    "manufacture": "Genesis",
+    "model": "GV60 Sport Plus",
+    "batterySize": "74 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.0 sec",
+    "topSpeed MPH": 146,
+    "Range Miles": 227,
+    "efficiency wh": {
+      "mi": 327
+    },
+    "Fast Charging Peak Rate MPH": "590"
+  },
+  {
+    "manufacture": "Lucid",
+    "model": "Air Touring",
+    "batterySize": "88 kWh ",
+    "availableDate": " June 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.4 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 342,
+    "efficiency wh": {
+      "mi": 257
+    },
+    "Fast Charging Peak Rate MPH": "597"
+  },
+  {
+    "manufacture": "Mercedes",
+    "model": "EQS 450+",
+    "batterySize": "107.8 kWh ",
+    "availableDate": " October 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.2 sec",
+    "topSpeed MPH": 130,
+    "Range Miles": 398,
+    "efficiency wh": {
+      "mi": 270
+    },
+    "Fast Charging Peak Rate MPH": "597"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan Turbo S Sport Turismo",
+    "batterySize": "83.7 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "2.8 sec",
+    "topSpeed MPH": 162,
+    "Range Miles": 245,
+    "efficiency wh": {
+      "mi": 341
+    },
+    "Fast Charging Peak Rate MPH": "603"
+  },
+  {
+    "manufacture": "Kia",
+    "model": "EV6 GT",
+    "batterySize": "74 kWh ",
+    "availableDate": " April 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "3.5 sec",
+    "topSpeed MPH": 162,
+    "Range Miles": 230,
+    "efficiency wh": {
+      "mi": 322
+    },
+    "Fast Charging Peak Rate MPH": "603"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan 4S",
+    "batterySize": "71 kWh ",
+    "availableDate": " May 2020",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "4.0 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 245,
+    "efficiency wh": {
+      "mi": 290
+    },
+    "Fast Charging Peak Rate MPH": "603"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan Turbo S",
+    "batterySize": "83.7 kWh ",
+    "availableDate": " January 2020",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "2.8 sec",
+    "topSpeed MPH": 162,
+    "Range Miles": 249,
+    "efficiency wh": {
+      "mi": 336
+    },
+    "Fast Charging Peak Rate MPH": "609"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan Turbo Cross Turismo",
+    "batterySize": "83.7 kWh ",
+    "availableDate": " July 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "3.3 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 249,
+    "efficiency wh": {
+      "mi": 336
+    },
+    "Fast Charging Peak Rate MPH": "609"
+  },
+  {
+    "manufacture": "Lucid",
+    "model": "Air Pure",
+    "batterySize": "88 kWh ",
+    "availableDate": " June 2023",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.2 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 348,
+    "efficiency wh": {
+      "mi": 253
+    },
+    "Fast Charging Peak Rate MPH": "609"
+  },
+  {
+    "manufacture": "XPENG",
+    "model": "G9 RWD Long Range",
+    "batterySize": "94 kWh ",
+    "availableDate": " February 2023",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "6.4 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 292,
+    "efficiency wh": {
+      "mi": 322
+    },
+    "Fast Charging Peak Rate MPH": "609"
+  },
+  {
+    "manufacture": "Maserati",
+    "model": "GranTurismo Folgore",
+    "batterySize": "83 kWh ",
+    "availableDate": " June 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "2.7 sec",
+    "topSpeed MPH": 199,
+    "Range Miles": 264,
+    "efficiency wh": {
+      "mi": 314
+    },
+    "Fast Charging Peak Rate MPH": "615"
+  },
+  {
+    "manufacture": "Genesis",
+    "model": "GV60 Sport",
+    "batterySize": "74 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.5 sec",
+    "topSpeed MPH": 124,
+    "Range Miles": 236,
+    "efficiency wh": {
+      "mi": 314
+    },
+    "Fast Charging Peak Rate MPH": "615"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan Turbo Sport Turismo",
+    "batterySize": "83.7 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "3.2 sec",
+    "topSpeed MPH": 162,
+    "Range Miles": 252,
+    "efficiency wh": {
+      "mi": 333
+    },
+    "Fast Charging Peak Rate MPH": "621"
+  },
+  {
+    "manufacture": "Audi",
+    "model": "e-tron GT RS",
+    "batterySize": "85 kWh ",
+    "availableDate": " March 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "3.3 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 252,
+    "efficiency wh": {
+      "mi": 338
+    },
+    "Fast Charging Peak Rate MPH": "621"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan ",
+    "batterySize": "71 kWh ",
+    "availableDate": " February 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "5.4 sec",
+    "topSpeed MPH": 143,
+    "Range Miles": 255,
+    "efficiency wh": {
+      "mi": 278
+    },
+    "Fast Charging Peak Rate MPH": "628"
+  },
+  {
+    "manufacture": "Hyundai",
+    "model": "IONIQ 5 Long Range AWD",
+    "batterySize": "74 kWh ",
+    "availableDate": " April 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.1 sec",
+    "topSpeed MPH": 115,
+    "Range Miles": 239,
+    "efficiency wh": {
+      "mi": 309
+    },
+    "Fast Charging Peak Rate MPH": "628"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan Turbo",
+    "batterySize": "83.7 kWh ",
+    "availableDate": " January 2020",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "3.2 sec",
+    "topSpeed MPH": 162,
+    "Range Miles": 258,
+    "efficiency wh": {
+      "mi": 325
+    },
+    "Fast Charging Peak Rate MPH": "634"
+  },
+  {
+    "manufacture": "Hyundai",
+    "model": "IONIQ 5 Long Range 2WD",
+    "batterySize": "74 kWh ",
+    "availableDate": " April 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.3 sec",
+    "topSpeed MPH": 115,
+    "Range Miles": 242,
+    "efficiency wh": {
+      "mi": 306
+    },
+    "Fast Charging Peak Rate MPH": "634"
+  },
+  {
+    "manufacture": "Genesis",
+    "model": "GV60 Premium",
+    "batterySize": "74 kWh ",
+    "availableDate": " June 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.8 sec",
+    "topSpeed MPH": 115,
+    "Range Miles": 242,
+    "efficiency wh": {
+      "mi": 306
+    },
+    "Fast Charging Peak Rate MPH": "634"
+  },
+  {
+    "manufacture": "Audi",
+    "model": "e-tron GT quattro",
+    "batterySize": "85 kWh ",
+    "availableDate": " March 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "4.1 sec",
+    "topSpeed MPH": 152,
+    "Range Miles": 261,
+    "efficiency wh": {
+      "mi": 325
+    },
+    "Fast Charging Peak Rate MPH": "640"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan GTS Sport Turismo",
+    "batterySize": "83.7 kWh ",
+    "availableDate": " February 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "3.7 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 264,
+    "efficiency wh": {
+      "mi": 317
+    },
+    "Fast Charging Peak Rate MPH": "652"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan 4S Cross Turismo",
+    "batterySize": "83.7 kWh ",
+    "availableDate": " July 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "4.1 sec",
+    "topSpeed MPH": 149,
+    "Range Miles": 264,
+    "efficiency wh": {
+      "mi": 317
+    },
+    "Fast Charging Peak Rate MPH": "652"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan 4 Cross Turismo",
+    "batterySize": "83.7 kWh ",
+    "availableDate": " July 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "5.1 sec",
+    "topSpeed MPH": 137,
+    "Range Miles": 264,
+    "efficiency wh": {
+      "mi": 317
+    },
+    "Fast Charging Peak Rate MPH": "652"
+  },
+  {
+    "manufacture": "Kia",
+    "model": "EV6 Long Range AWD",
+    "batterySize": "74 kWh ",
+    "availableDate": " October 2021",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.2 sec",
+    "topSpeed MPH": 115,
+    "Range Miles": 249,
+    "efficiency wh": {
+      "mi": 298
+    },
+    "Fast Charging Peak Rate MPH": "652"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan 4S Plus Sport Turismo",
+    "batterySize": "83.7 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "4.0 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 267,
+    "efficiency wh": {
+      "mi": 314
+    },
+    "Fast Charging Peak Rate MPH": "659"
+  },
+  {
+    "manufacture": "Kia",
+    "model": "EV6 Long Range 2WD",
+    "batterySize": "74 kWh ",
+    "availableDate": " October 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.3 sec",
+    "topSpeed MPH": 115,
+    "Range Miles": 255,
+    "efficiency wh": {
+      "mi": 290
+    },
+    "Fast Charging Peak Rate MPH": "665"
+  },
+  {
+    "manufacture": "Lotus",
+    "model": "Eletre ",
+    "batterySize": "107 kWh ",
+    "availableDate": " March 2023",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "4.5 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 323,
+    "efficiency wh": {
+      "mi": 332
+    },
+    "Fast Charging Peak Rate MPH": "677"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan Plus Sport Turismo",
+    "batterySize": "83.7 kWh ",
+    "availableDate": " March 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "5.4 sec",
+    "topSpeed MPH": 143,
+    "Range Miles": 277,
+    "efficiency wh": {
+      "mi": 303
+    },
+    "Fast Charging Peak Rate MPH": "677"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan GTS",
+    "batterySize": "83.7 kWh ",
+    "availableDate": " February 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "3.7 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 280,
+    "efficiency wh": {
+      "mi": 299
+    },
+    "Fast Charging Peak Rate MPH": "690"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan 4S Plus",
+    "batterySize": "83.7 kWh ",
+    "availableDate": " April 2020",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "4.0 sec",
+    "topSpeed MPH": 155,
+    "Range Miles": 286,
+    "efficiency wh": {
+      "mi": 293
+    },
+    "Fast Charging Peak Rate MPH": "702"
+  },
+  {
+    "manufacture": "Hyundai",
+    "model": "IONIQ 6 Long Range AWD",
+    "batterySize": "74 kWh ",
+    "availableDate": " November 2022",
+    "Drive": "All Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "5.1 sec",
+    "topSpeed MPH": 115,
+    "Range Miles": 273,
+    "efficiency wh": {
+      "mi": 270
+    },
+    "Fast Charging Peak Rate MPH": "715"
+  },
+  {
+    "manufacture": "Porsche",
+    "model": "Taycan Plus",
+    "batterySize": "83.7 kWh ",
+    "availableDate": " February 2021",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "5.4 sec",
+    "topSpeed MPH": 143,
+    "Range Miles": 295,
+    "efficiency wh": {
+      "mi": 283
+    },
+    "Fast Charging Peak Rate MPH": "727"
+  },
+  {
+    "manufacture": "Hyundai",
+    "model": "IONIQ 6 Long Range 2WD",
+    "batterySize": "74 kWh ",
+    "availableDate": " December 2022",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 5,
+    "acceleration 0-60": "7.4 sec",
+    "topSpeed MPH": 115,
+    "Range Miles": 295,
+    "efficiency wh": {
+      "mi": 251
+    },
+    "Fast Charging Peak Rate MPH": "771"
+  },
+  {
+    "manufacture": "Renault",
+    "model": "Twingo Electric",
+    "batterySize": "21.3 kWh ",
+    "availableDate": " November 2020",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 4,
+    "acceleration 0-60": "12.6 sec",
+    "topSpeed MPH": 84,
+    "Range Miles": 81,
+    "efficiency wh": {
+      "mi": 264
+    },
+    "Fast Charging Peak Rate MPH": null
+  },
+  {
+    "manufacture": "Smart",
+    "model": "EQ fortwo coupe",
+    "batterySize": "16.7 kWh ",
+    "availableDate": " January 2020",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 2,
+    "acceleration 0-60": "11.6 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 62,
+    "efficiency wh": {
+      "mi": 269
+    },
+    "Fast Charging Peak Rate MPH": null
+  },
+  {
+    "manufacture": "Smart",
+    "model": "EQ fortwo cabrio",
+    "batterySize": "16.7 kWh ",
+    "availableDate": " January 2020",
+    "Drive": "Rear Wheel Drive",
+    "Number of Seats": 2,
+    "acceleration 0-60": "11.9 sec",
+    "topSpeed MPH": 81,
+    "Range Miles": 59,
+    "efficiency wh": {
+      "mi": 283
+    },
+    "Fast Charging Peak Rate MPH": null
+  }
+]
