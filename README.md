@@ -33,7 +33,7 @@ This web application was developed using a range of technologies. It implements 
 
 ## Documentation
 
-Detailed documentation on how this project is made and its optimizations can be found in the 'How It's Made' and 'Optimizations' sections. Additional resources include:
+Additional resources include:
 
 - [LangChain JS Documentation](https://js.langchain.com/docs/)
 - [LangChain GitHub Repository](https://github.com/hwchase17/langchainjs)
